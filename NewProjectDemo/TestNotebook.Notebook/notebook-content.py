@@ -8,12 +8,13 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "072ce32b-badd-41bb-a610-70278c0d5d7e",
+# META       "default_lakehouse": "8c0d5d7e-7027-a610-41bb-badd072ce32b",
 # META       "default_lakehouse_name": "TestGitLH",
-# META       "default_lakehouse_workspace_id": "4ba32fcd-5b5e-4ab4-8e07-1c7005b0821f",
+# META       "default_lakehouse_workspace_id": "00000000-0000-0000-0000-000000000000",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "072ce32b-badd-41bb-a610-70278c0d5d7e"
+# META           "id": "8c0d5d7e-7027-a610-41bb-badd072ce32b",
+# META           "workspace_id": "00000000-0000-0000-0000-000000000000"
 # META         }
 # META       ]
 # META     }
