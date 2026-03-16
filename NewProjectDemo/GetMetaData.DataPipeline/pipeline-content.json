@@ -8,6 +8,14 @@
         "typeProperties": {
           "waitTimeInSeconds": 1
         }
+      },
+      {
+        "name": "Wait2",
+        "type": "Wait",
+        "dependsOn": [],
+        "typeProperties": {
+          "waitTimeInSeconds": 1
+        }
       }
     ]
   }
